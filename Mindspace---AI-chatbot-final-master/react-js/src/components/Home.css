@@ -1,0 +1,102 @@
+.AllPages {
+    padding-top: 35px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+
+.Home {
+    text-align: center;
+}
+
+.Header {
+    height: 20px;
+    width: 100%;
+}
+
+.h1 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.Home-header {
+    align-items: center;
+    justify-content: center;
+}
+
+.ImgBtn {
+    width: 100%;
+}
+
+table, td {
+    //border: 1px solid black;
+    padding: 20px;
+}
+.banner{
+    width:100%;
+}
+.general2{
+    height: 1000px;
+}
+.general2Container {
+    position: relative;
+    text-align: center;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+.chatBotBtn {
+    border: none;
+    border-radius: 8px;
+    padding: 15px;
+    background-color: rgba(0,0,0, .05);
+}
+.chatBotBtn:hover {
+        background-color: rgba(256,256,256,.1);
+}
+.features {
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+.features td {
+    width: 50%;
+}
+.chatbotDesc {
+    padding-left: 25%;
+    text-align: center;
+    width: 70%;
+}
+.chatbottd {
+    width: 50%;
+    background-color: #F8F9CA;
+}
+.featuretd {
+    width: 50%;
+    background-color: #F5D7E3;
+}
+.icon{
+    width: 20%;
+}
+.smallIcon{
+    width: 28%;
+}
+.otherfeatures {
+    list-style-type: none;
+}
+.featureLinks {
+    color: black;
+    text-decoration: none;
+}
+.featureLinks:link, .featureLinks:visited, .featureLinks:active {
+     color: black;
+    text-decoration: none;
+}
+.featureLinks:hover {
+    color: #F8F9CA;
+    text-decoration: none;
+}
